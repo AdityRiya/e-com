@@ -1,0 +1,121 @@
+/* ==================================================
+                    Careers part start
+=====================================================*/
+#career_part{
+    margin: 30px 0;
+}
+.career_img img{
+    max-width: 100%;
+}
+/* ==================================================
+                    Careers part start
+=====================================================*/
+
+/* ==================================================
+                    openings part start
+=====================================================*/
+#opening_part{
+    margin-bottom: 30px;
+}
+.accordion-button::after {
+	content: none !important;
+}
+.accordion-button:focus {
+	box-shadow: none !important;
+}
+.accor{
+    background-color: #f7f7f7 !important;
+    border: 1px solid rgba(0, 0, 0, 0.125) !important;
+    border-radius: 0 !important;
+    margin-top: 10px !important;
+    -webkit-box-shadow: 0px 2px 1px 0px rgba(195,195,195,0.95); 
+    box-shadow: 0px 2px 1px 0px rgba(195,195,195,0.95);
+}
+.accor h2 a{
+    color: #333;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 1px;
+    transition: .4s;
+}
+.accor h2 a:hover{
+    color: #d93800;
+    text-decoration: underline;
+}
+.accor .first_p{
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 14.5px;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+}
+.accor .must_have{
+    border-bottom: 1px solid #ccc;
+}
+.accor .must_have h3{
+    color: #333;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 15px 0;
+}
+.accor .must_have ul{
+    padding-left: 0 !important;
+}
+.accor .must_have ul li{
+    color: #333;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+.accor .benefits h3{
+    color: #333;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin: 15px 0;
+}
+.accor .benefits p{
+    color: #333;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    margin-bottom: 1rem;
+}
+.accor .benefits strong{
+    display: block;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-bottom: 1rem;
+    font-style: italic;
+    color: #D93800;
+    font-weight: bold;
+}
+.accor .benefits a{
+    padding: 10px 14px;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    background: #D93800;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    transition: .4s;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.accor .benefits a:hover{
+    background: black;
+}
+.accordion-body{
+    background: white !important;
+}
+/* ==================================================
+                    openings part end
+=====================================================*/

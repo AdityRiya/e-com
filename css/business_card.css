@@ -1,0 +1,62 @@
+#breadcrumb_part .past{
+    color: black !important;
+    margin-right: 5px !important;
+}
+#business_card{
+    margin: 30px 0;
+}
+
+/* =========================================== 
+            requirements part start
+==============================================*/
+#requirements_part{
+    margin-top: 30px;
+    background: url(../images/texture-bw.jpg);
+    padding: 30px 0;
+    text-align: center;
+}
+#requirements_part h1{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+}
+#requirements_part a{
+    color: white;
+    padding: 10px 12px;
+    letter-spacing: 2px;
+    background: #d93800;
+    display: inline-block;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    transition: .4s;
+    display: inline-block;
+    margin-top: 10px;
+    transition: .4s;
+}
+#requirements_part a:hover{
+    background: black;
+}
+/* =========================================== 
+            requirements part end
+==============================================*/
+.product{
+    margin-left: 20px;
+}
+.ribbon{
+    width: 80px;
+    height: 32px;
+    line-height: 32px;
+    background: #d93800;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+    position: absolute;
+    top: 30px;
+    left: -15px;
+    text-align: center;
+}
